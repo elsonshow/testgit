@@ -6,3 +6,4 @@ test stage
 Creating a new branch is quick and simple.
 test dev1.
 
+test merge.
